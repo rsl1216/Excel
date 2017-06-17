@@ -8,4 +8,4 @@ wb.get_sheet_names()
 
 sheet = wb.active
 
-print(sheet['A1'].value)
+print(sheet['B1'].value)
